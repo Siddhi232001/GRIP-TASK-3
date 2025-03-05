@@ -1,6 +1,4 @@
-# GRIP-TASK-3
-
-Task 3: Exploratory Data Analysis - Retail
+ Exploratory Data Analysis - Retail
 
 🎯 Objectives:
 1. Perform Exploratory 'Data Analysis' on the given dataset 
